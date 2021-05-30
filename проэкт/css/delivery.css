@@ -1,0 +1,391 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.container .container {
+  float: left;
+}
+
+.element {
+  position: relative;
+  float: left;
+}
+
+.text {
+  color: rgb(0, 0, 0);
+}
+
+.container-1 {
+  width: 786px;
+  height: 236px;
+  margin: 5px auto 0;
+}
+
+.container-10 {
+  position: relative;
+  z-index: 17;
+  width: 36.0009765625%;
+  height: 30px;
+  margin: 22px 0 0 4.56055%;
+}
+
+.container-11 {
+  position: relative;
+  clear: both;
+  z-index: 19;
+  width: 36.0009765625%;
+  height: 30px;
+  margin: 43px 0 0 4.56055%;
+}
+
+.container-12 {
+  position: relative;
+  clear: both;
+  z-index: 21;
+  width: 36.0009765625%;
+  height: 30px;
+  margin: 43px 0 0 4.56055%;
+}
+
+.container-13 {
+  width: 640px;
+  height: 118px;
+  margin: 32px auto 0;
+  background-color: rgb(160, 4, 4);
+}
+
+.container-2 {
+  width: 100%;
+  height: 21px;
+  margin-top: -7px;
+  background-color: rgba(0, 0, 0, 0.41);
+}
+
+.container-3 {
+  clear: both;
+  width: 100%;
+  height: 12px;
+  margin-top: 1px;
+  background-color: rgba(0, 0, 0, 0.32);
+}
+
+.container-4 {
+  clear: both;
+  width: 198px;
+  height: 64px;
+  margin-left: 33.99332%;
+}
+
+.container-5 {
+  clear: both;
+  width: 100%;
+  height: 12px;
+  margin-top: 6px;
+  background-color: rgba(0, 0, 0, 0.32);
+}
+
+.container-6 {
+  clear: both;
+  width: 203px;
+  height: 65px;
+  margin: 27px 0 0 36.97122%;
+}
+
+.container-7 {
+  width: 96.7441502463%;
+  height: 24px;
+}
+
+.container-8 {
+  clear: both;
+  width: 100%;
+  height: 5px;
+  margin-top: 6px;
+  background-color: rgba(0, 0, 0, 0.32);
+}
+
+.container-9 {
+  width: 640px;
+  height: 198px;
+  margin: 41px auto 0;
+}
+
+.element-1 {
+  z-index: 25;
+  width: 36px;
+  height: 30px;
+  margin: 26px 0 0 1.5625%;
+  background: url('../images/wallet.svg') rgba(222, 222, 222, 0);
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-2 {
+  z-index: 26;
+  width: 37px;
+  height: 30px;
+  margin: 26px 0 0 1.9043%;
+  background: url('../images/wallet.svg') rgba(222, 222, 222, 0);
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-3 {
+  z-index: 28;
+  width: 100%;
+  height: 118px;
+  background-color: rgb(192, 188, 188);
+}
+
+.element-4 {
+  z-index: 32;
+  width: 35px;
+  height: 33px;
+  margin: -40px 0 0 2.03125%;
+  background: url('../images/search.svg') rgba(222, 222, 222, 0);
+  background-size: contain;
+  background-position: center center;
+}
+
+.element-5 {
+  z-index: 34;
+  width: 36px;
+  height: 34px;
+  margin: -68px 0 0 35.3125%;
+  background: url('../images/phone.svg') rgba(222, 222, 222, 0);
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-6 {
+  z-index: 35;
+  width: 38px;
+  height: 34px;
+  margin: -68px 0 0 41.875%;
+  background: url('../images/person(2).svg') rgba(222, 222, 222, 0);
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-7 {
+  z-index: 36;
+  width: 38px;
+  height: 34px;
+  margin: -68px 0 0 49.375%;
+  background: url('../images/instagram-fill.svg') rgba(222, 222, 222, 0);
+  background-size: cover;
+  background-position: center center;
+}
+
+.text-1 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 6;
+  width: 16.71875%;
+  min-height: 17px;
+  margin-left: 1.08938%;
+  font-style: italic;
+  font-size: 0.938em;
+}
+
+.text-10 {
+  position: relative;
+  float: left;
+  z-index: 22;
+  width: 28.8110351562%;
+  min-height: 37px;
+  margin: 7px 0 0 24.1235399999%;
+  font-size: 1.25em;
+  text-align: center;
+}
+
+.text-11 {
+  float: left;
+  width: 105.4658890546%;
+  min-height: 30px;
+  margin-left: -0.08138%;
+  border-bottom: 3px solid rgba(35, 15, 15, 0.63);
+  font-size: 1em;
+}
+
+.text-12 {
+  position: relative;
+  float: left;
+  z-index: 23;
+  width: 24.6875%;
+  min-height: 35px;
+  margin: 26px 0 0 24.1235399999%;
+  font-size: 1em;
+}
+
+.text-13 {
+  float: left;
+  width: 99.9932184999%;
+  min-height: 30px;
+  border-bottom: 3px solid rgba(35, 15, 15, 0.63);
+  font-size: 1em;
+}
+
+.text-14 {
+  position: relative;
+  float: left;
+  z-index: 24;
+  width: 12.34375%;
+  min-height: 35px;
+  margin: 26px 0 0 24.1235399999%;
+  font-size: 1em;
+}
+
+.text-15 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 29;
+  width: 10.46875%;
+  min-height: 23px;
+  margin: -112px 0 0 2.09229%;
+  font-family: 'Trebuchet MS';
+  font-size: 1.063em;
+}
+
+.text-16 {
+  position: relative;
+  float: left;
+  z-index: 33;
+  width: 13.28125%;
+  min-height: 14px;
+  margin: -112px 0 0 38.75%;
+  font-family: 'Trebuchet MS';
+  font-size: 1.063em;
+}
+
+.text-17 {
+  position: relative;
+  float: left;
+  z-index: 30;
+  width: 21.40625%;
+  min-height: 17px;
+  margin: -84px 0 0 2.09229%;
+  font-family: 'Trebuchet MS';
+  font-size: 1em;
+}
+
+.text-18 {
+  position: relative;
+  float: left;
+  z-index: 37;
+  width: 17.65625%;
+  min-height: 27px;
+  margin: -101px 0 0 75.49805%;
+  font-family: 'Trebuchet MS';
+  font-style: italic;
+  font-size: 1em;
+  font-weight: 700;
+}
+
+.text-19 {
+  position: relative;
+  float: left;
+  z-index: 31;
+  width: 21.40625%;
+  min-height: 17px;
+  margin: -62px 0 0 2.09229%;
+  font-family: 'Trebuchet MS';
+  font-size: 1em;
+}
+
+.text-2 {
+  position: relative;
+  float: left;
+  z-index: 7;
+  width: 16.875%;
+  min-height: 17px;
+  margin-left: 3.90625%;
+  font-style: italic;
+  font-size: 0.938em;
+}
+
+.text-20 {
+  position: relative;
+  float: left;
+  z-index: 38;
+  width: 20.15625%;
+  min-height: 28px;
+  margin: -68px 0 0 73.34229%;
+  border-radius: 16px;
+  background-color: rgba(0, 0, 0, 0.21);
+  font-family: 'Trebuchet MS';
+  font-size: 1em;
+  text-align: center;
+}
+
+.text-3 {
+  position: relative;
+  float: left;
+  z-index: 0;
+  width: 65.3882426909%;
+  min-height: 20px;
+  margin-top: 6px;
+  font-style: italic;
+  font-size: 0.938em;
+}
+
+.text-4 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 1;
+  width: 59.8553913863%;
+  min-height: 34px;
+  margin: -6px 0 0 40.11995%;
+  font-style: italic;
+  font-size: 2em;
+  font-weight: 700;
+}
+
+.text-5 {
+  float: left;
+  width: 23.4227066592%;
+  min-height: 24px;
+  margin-left: 24.44109%;
+  font-style: italic;
+  font-size: 0.938em;
+}
+
+.text-6 {
+  float: left;
+  width: 9.1654069536%;
+  min-height: 19px;
+  margin-left: 1.00247%;
+  font-size: 1em;
+}
+
+.text-7 {
+  float: left;
+  width: 30.0421672368%;
+  min-height: 24px;
+  font-style: italic;
+  font-size: 0.938em;
+}
+
+.text-8 {
+  width: 80.3941190054%;
+  min-height: 36px;
+  margin: 24px auto 0;
+  font-style: italic;
+  font-size: 1.563em;
+  font-weight: 700;
+  text-align: center;
+}
+
+.text-9 {
+  float: left;
+  width: 99.9932184999%;
+  min-height: 30px;
+  margin: 1px 0 0 -0.16276%;
+  border-bottom: 3px solid rgba(35, 15, 15, 0.63);
+  font-size: 1em;
+}

@@ -1,0 +1,885 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 'Trebuchet MS';
+  color: rgb(0, 0, 0);
+}
+
+.container .container {
+  float: left;
+}
+
+.element {
+  float: left;
+}
+
+._button {
+  display: block;
+  width: 230px;
+  height: 40px;
+  margin: 8px auto 0;
+  border-radius: 36px;
+  background-color: rgb(203, 214, 155);
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._button:hover {
+  background-color: rgb(173, 186, 117);
+}
+
+._button:active {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .5) inset;
+}
+
+.container-1 {
+  width: 786px;
+  height: 236px;
+  margin: 0 auto;
+}
+
+.container-10 {
+  position: relative;
+  z-index: 23;
+  width: 176px;
+  height: 225px;
+  margin: 16px 0 0 5.50893%;
+  border: 1px solid rgb(55, 104, 46);
+}
+
+.container-11 {
+  position: relative;
+  z-index: 28;
+  width: 176px;
+  height: 225px;
+  margin: 16px 0 0 6.68527%;
+}
+
+.container-12 {
+  position: relative;
+  z-index: 33;
+  width: 176px;
+  height: 225px;
+  margin: 16px 0 0 5.37054%;
+}
+
+.container-13 {
+  position: relative;
+  clear: both;
+  z-index: 38;
+  width: 176px;
+  height: 225px;
+  margin: 65px 0 0 5.50893%;
+}
+
+.container-14 {
+  position: relative;
+  z-index: 43;
+  width: 176px;
+  height: 225px;
+  margin: 65px 0 0 6.68527%;
+}
+
+.container-15 {
+  position: relative;
+  z-index: 48;
+  width: 176px;
+  height: 225px;
+  margin: 65px 0 0 5.37054%;
+}
+
+.container-16 {
+  position: relative;
+  clear: both;
+  z-index: 53;
+  width: 176px;
+  height: 225px;
+  margin: 66px 0 0 5.50893%;
+}
+
+.container-17 {
+  position: relative;
+  z-index: 58;
+  width: 176px;
+  height: 225px;
+  margin: 66px 0 0 6.68527%;
+}
+
+.container-18 {
+  position: relative;
+  z-index: 64;
+  width: 176px;
+  height: 225px;
+  margin: 66px 0 0 5.37054%;
+}
+
+.container-19 {
+  width: 69.599609375%;
+  height: 201px;
+  margin: 24px auto 0;
+}
+
+.container-2 {
+  width: 100%;
+  height: 21px;
+  margin-top: -7px;
+  background-color: rgba(0, 0, 0, 0.41);
+}
+
+.container-20 {
+  width: 640px;
+  height: 118px;
+  margin: 39px auto 0;
+  background-color: rgb(160, 4, 4);
+}
+
+.container-3 {
+  clear: both;
+  width: 100%;
+  height: 12px;
+  margin-top: 1px;
+  background-color: rgba(0, 0, 0, 0.32);
+}
+
+.container-4 {
+  clear: both;
+  width: 198px;
+  height: 64px;
+  margin-left: 33.99332%;
+}
+
+.container-5 {
+  clear: both;
+  width: 100%;
+  height: 12px;
+  margin-top: 6px;
+  background-color: rgba(0, 0, 0, 0.32);
+}
+
+.container-6 {
+  clear: both;
+  width: 203px;
+  height: 65px;
+  margin: 27px 0 0 36.97122%;
+}
+
+.container-7 {
+  width: 96.7441502463%;
+  height: 24px;
+}
+
+.container-8 {
+  clear: both;
+  width: 100%;
+  height: 5px;
+  margin-top: 6px;
+  background-color: rgba(0, 0, 0, 0.32);
+}
+
+.container-9 {
+  width: 700px;
+  height: 842px;
+  margin: 25px auto 0;
+}
+
+.element-1 {
+  position: relative;
+  z-index: 18;
+  width: 100%;
+  height: 225px;
+  border: 2px solid rgba(20, 4, 4, 0.63);
+  border-radius: 7px;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-10 {
+  position: relative;
+  clear: both;
+  z-index: 40;
+  width: 144px;
+  height: 120px;
+  margin: -209px 0 0 8.18537%;
+  border: 1px solid rgb(192, 188, 188);
+  background: url('../images/blueberries-3946230_640.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-11 {
+  position: relative;
+  z-index: 44;
+  width: 100%;
+  height: 225px;
+  border: 2px solid rgba(20, 4, 4, 0.63);
+  border-radius: 7px;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-12 {
+  position: relative;
+  clear: both;
+  z-index: 45;
+  width: 144px;
+  height: 120px;
+  margin: -209px 0 0 8.18537%;
+  border: 1px solid rgb(192, 188, 188);
+  background: url('../images/baked-goods-1853261_640.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-13 {
+  position: relative;
+  z-index: 49;
+  width: 100%;
+  height: 225px;
+  border: 2px solid rgba(20, 4, 4, 0.63);
+  border-radius: 7px;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-14 {
+  position: relative;
+  clear: both;
+  z-index: 50;
+  width: 144px;
+  height: 120px;
+  margin: -209px 0 0 8.18537%;
+  border: 1px solid rgb(192, 188, 188);
+  background: url('../images/cake-1971556_640.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left center;
+}
+
+.element-15 {
+  position: relative;
+  z-index: 54;
+  width: 100%;
+  height: 225px;
+  border: 2px solid rgba(20, 4, 4, 0.63);
+  border-radius: 7px;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-16 {
+  position: relative;
+  clear: both;
+  z-index: 55;
+  width: 144px;
+  height: 120px;
+  margin: -209px 0 0 8.18537%;
+  border: 1px solid rgb(192, 188, 188);
+  background: url('../images/cakes-1681543_640(2).jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: left center;
+}
+
+.element-17 {
+  width: 58px;
+  height: 54px;
+  margin: -577px 0 0 -245.42791%;
+  background: url('../images/discount-shopping.svg') rgba(222, 222, 222, 0);
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-18 {
+  position: relative;
+  z-index: 59;
+  width: 100%;
+  height: 225px;
+  border: 2px solid rgba(20, 4, 4, 0.63);
+  border-radius: 7px;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-19 {
+  position: relative;
+  clear: both;
+  z-index: 60;
+  width: 144px;
+  height: 120px;
+  margin: -209px 0 0 8.18537%;
+  border: 1px solid rgb(192, 188, 188);
+  background: url('../images/cake-486874_640(2).jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-2 {
+  position: relative;
+  clear: both;
+  z-index: 19;
+  width: 143px;
+  height: 120px;
+  margin: -212px 0 0 8.18068%;
+  border: 1px solid rgb(192, 188, 188);
+  background: url('../images/cake-1850011_640.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: right center;
+}
+
+.element-20 {
+  position: relative;
+  z-index: 69;
+  width: 100%;
+  height: 118px;
+  background-color: rgb(192, 188, 188);
+}
+
+.element-21 {
+  position: relative;
+  z-index: 73;
+  width: 35px;
+  height: 33px;
+  margin: -40px 0 0 2.03125%;
+  background: url('../images/search.svg') rgba(222, 222, 222, 0);
+  background-size: contain;
+  background-position: center center;
+}
+
+.element-22 {
+  position: relative;
+  z-index: 75;
+  width: 36px;
+  height: 34px;
+  margin: -68px 0 0 35.3125%;
+  background: url('../images/phone.svg') rgba(222, 222, 222, 0);
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-23 {
+  position: relative;
+  z-index: 76;
+  width: 38px;
+  height: 34px;
+  margin: -68px 0 0 41.875%;
+  background: url('../images/person(2).svg') rgba(222, 222, 222, 0);
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-24 {
+  position: relative;
+  z-index: 77;
+  width: 38px;
+  height: 34px;
+  margin: -68px 0 0 49.375%;
+  background: url('../images/instagram-fill.svg') rgba(222, 222, 222, 0);
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-3 {
+  position: relative;
+  z-index: 24;
+  width: 100%;
+  height: 225px;
+  border: 2px solid rgba(20, 4, 4, 0.63);
+  border-radius: 7px;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-4 {
+  position: relative;
+  clear: both;
+  z-index: 25;
+  width: 144px;
+  height: 120px;
+  margin: -209px 0 0 8.18537%;
+  border: 1px solid rgb(192, 188, 188);
+  background: url('../images/cake-1971552_640.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-5 {
+  position: relative;
+  z-index: 29;
+  width: 100%;
+  height: 225px;
+  border: 2px solid rgba(20, 4, 4, 0.63);
+  border-radius: 7px;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-6 {
+  position: relative;
+  clear: both;
+  z-index: 30;
+  width: 144px;
+  height: 120px;
+  margin: -209px 0 0 8.18537%;
+  border: 1px solid rgb(192, 188, 188);
+  background: url('../images/cake-1284548_640(2).jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: right center;
+}
+
+.element-7 {
+  position: relative;
+  z-index: 34;
+  width: 100%;
+  height: 225px;
+  border: 2px solid rgba(20, 4, 4, 0.63);
+  border-radius: 7px;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.element-8 {
+  position: relative;
+  clear: both;
+  z-index: 35;
+  width: 144px;
+  height: 120px;
+  margin: -209px 0 0 8.18537%;
+  border: 1px solid rgb(192, 188, 188);
+  background: url('../images/cake-1869227_640.jpg') rgb(222, 222, 222);
+  background-size: cover;
+  background-position: center center;
+}
+
+.element-9 {
+  position: relative;
+  z-index: 39;
+  width: 100%;
+  height: 225px;
+  border: 2px solid rgba(20, 4, 4, 0.63);
+  border-radius: 7px;
+  background-color: rgba(222, 222, 222, 0);
+}
+
+.text-1 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 6;
+  width: 16.71875%;
+  min-height: 17px;
+  margin-left: 1.08938%;
+  font-family: Helvetica;
+  font-style: italic;
+  font-size: 0.938em;
+  color: rgb(0, 0, 0);
+}
+
+.text-10 {
+  width: 80.3941190054%;
+  min-height: 36px;
+  margin: 24px auto 0;
+  font-family: Helvetica;
+  font-style: italic;
+  font-size: 1.563em;
+  font-weight: 700;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-11 {
+  position: relative;
+  float: left;
+  z-index: 20;
+  width: 77.3792613636%;
+  min-height: 31px;
+  margin: -84px 0 0 8.18068%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-12 {
+  position: relative;
+  float: left;
+  z-index: 21;
+  width: 35.2272727272%;
+  min-height: 27px;
+  margin: -35px 0 0 14.44864%;
+  font-style: italic;
+  font-size: 1em;
+  font-weight: 700;
+  text-align: center;
+  color: rgba(20, 124, 5, 0.85);
+}
+
+.text-13 {
+  position: relative;
+  float: left;
+  z-index: 22;
+  width: 48.2954545454%;
+  min-height: 27px;
+  margin: -35px 0 0 43.35489%;
+  font-style: italic;
+  font-size: 1.063em;
+  color: rgb(22, 133, 6);
+}
+
+.text-14 {
+  position: relative;
+  float: left;
+  z-index: 26;
+  width: 81.25%;
+  min-height: 31px;
+  margin: -82px 0 0 8.31854%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-15 {
+  position: relative;
+  float: left;
+  z-index: 27;
+  width: 35.2272727272%;
+  min-height: 27px;
+  margin: -35px 0 0 8.18537%;
+  font-style: italic;
+  font-size: 1em;
+  text-align: center;
+  color: rgba(46, 36, 36, 0.85);
+}
+
+.text-16 {
+  position: relative;
+  float: left;
+  z-index: 31;
+  width: 77.3792613636%;
+  min-height: 31px;
+  margin: -82px 0 0 12.62429%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-17 {
+  position: relative;
+  float: left;
+  z-index: 32;
+  width: 35.2272727272%;
+  min-height: 27px;
+  margin: -35px 0 0 8.18537%;
+  font-style: italic;
+  font-size: 1em;
+  text-align: center;
+  color: rgba(46, 36, 36, 0.85);
+}
+
+.text-18 {
+  position: relative;
+  float: left;
+  z-index: 36;
+  width: 84.659090909%;
+  min-height: 31px;
+  margin: -82px 0 0 11.02628%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-19 {
+  position: relative;
+  float: left;
+  z-index: 37;
+  width: 35.2272727272%;
+  min-height: 27px;
+  margin: -35px 0 0 8.18537%;
+  font-style: italic;
+  font-size: 1em;
+  text-align: center;
+  color: rgba(46, 36, 36, 0.85);
+}
+
+.text-2 {
+  position: relative;
+  float: left;
+  z-index: 7;
+  width: 16.875%;
+  min-height: 17px;
+  margin-left: 3.90625%;
+  font-family: Helvetica;
+  font-style: italic;
+  font-size: 0.938em;
+  color: rgb(0, 0, 0);
+}
+
+.text-20 {
+  position: relative;
+  float: left;
+  z-index: 41;
+  width: 77.3792613636%;
+  min-height: 31px;
+  margin: -84px 0 0 8.18537%;
+  font-size: 1em;
+  text-indent: 8px;
+  color: rgb(0, 0, 0);
+}
+
+.text-21 {
+  position: relative;
+  float: left;
+  z-index: 42;
+  width: 35.2272727272%;
+  min-height: 27px;
+  margin: -35px 0 0 8.18537%;
+  font-style: italic;
+  font-size: 1em;
+  text-align: center;
+  color: rgba(46, 36, 36, 0.85);
+}
+
+.text-22 {
+  position: relative;
+  float: left;
+  z-index: 46;
+  width: 77.3792613636%;
+  min-height: 31px;
+  margin: -79px 0 0 8.18537%;
+  font-size: 1em;
+  text-indent: 7px;
+  color: rgb(0, 0, 0);
+}
+
+.text-23 {
+  position: relative;
+  float: left;
+  z-index: 47;
+  width: 35.2272727272%;
+  min-height: 27px;
+  margin: -35px 0 0 8.18537%;
+  font-style: italic;
+  font-size: 1em;
+  text-align: center;
+  color: rgba(46, 36, 36, 0.85);
+}
+
+.text-24 {
+  position: relative;
+  float: left;
+  z-index: 51;
+  width: 86.9318181818%;
+  min-height: 31px;
+  margin: -76px 0 0 8.18537%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-25 {
+  position: relative;
+  float: left;
+  z-index: 52;
+  width: 35.2272727272%;
+  min-height: 27px;
+  margin: -35px 0 0 8.18537%;
+  font-style: italic;
+  font-size: 1em;
+  text-align: center;
+  color: rgba(46, 36, 36, 0.85);
+}
+
+.text-26 {
+  position: relative;
+  float: left;
+  z-index: 56;
+  width: 84.659090909%;
+  min-height: 31px;
+  margin: -78px 0 0 8.18537%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-27 {
+  position: relative;
+  float: left;
+  z-index: 57;
+  width: 35.2272727272%;
+  min-height: 27px;
+  margin: -35px 0 0 8.18537%;
+  font-style: italic;
+  font-size: 1em;
+  text-align: center;
+  color: rgba(46, 36, 36, 0.85);
+}
+
+.text-28 {
+  position: relative;
+  float: left;
+  z-index: 61;
+  width: 84.659090909%;
+  min-height: 31px;
+  margin: -79px 0 0 8.18537%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-29 {
+  position: relative;
+  float: left;
+  z-index: 62;
+  width: 35.2272727272%;
+  min-height: 27px;
+  margin: -35px 0 0 8.18537%;
+  font-style: italic;
+  font-size: 1em;
+  text-align: center;
+  color: rgba(46, 36, 36, 0.85);
+}
+
+.text-3 {
+  position: relative;
+  float: left;
+  z-index: 0;
+  width: 65.3882426909%;
+  min-height: 20px;
+  margin-top: 6px;
+  font-family: Helvetica;
+  font-style: italic;
+  font-size: 0.938em;
+  color: rgb(0, 0, 0);
+}
+
+.text-30 {
+  width: 473px;
+  min-height: 140px;
+  margin: 6px auto 0;
+  font-size: 2.125em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-31 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 70;
+  width: 10.46875%;
+  min-height: 23px;
+  margin: -112px 0 0 2.09229%;
+  font-size: 1.063em;
+  color: rgb(0, 0, 0);
+}
+
+.text-32 {
+  position: relative;
+  float: left;
+  z-index: 74;
+  width: 13.28125%;
+  min-height: 14px;
+  margin: -112px 0 0 38.75%;
+  font-size: 1.063em;
+  color: rgb(0, 0, 0);
+}
+
+.text-33 {
+  position: relative;
+  float: left;
+  z-index: 71;
+  width: 21.40625%;
+  min-height: 17px;
+  margin: -84px 0 0 2.09229%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-34 {
+  position: relative;
+  float: left;
+  z-index: 78;
+  width: 17.65625%;
+  min-height: 27px;
+  margin: -101px 0 0 75.49805%;
+  font-style: italic;
+  font-size: 1em;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+}
+
+.text-35 {
+  position: relative;
+  float: left;
+  z-index: 72;
+  width: 21.40625%;
+  min-height: 17px;
+  margin: -62px 0 0 2.09229%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-36 {
+  position: relative;
+  float: left;
+  z-index: 79;
+  width: 20.15625%;
+  min-height: 28px;
+  margin: -68px 0 0 73.34229%;
+  border-radius: 16px;
+  background-color: rgba(0, 0, 0, 0.21);
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text-4 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 1;
+  width: 59.8553913863%;
+  min-height: 34px;
+  margin: -6px 0 0 40.11995%;
+  font-family: Helvetica;
+  font-style: italic;
+  font-size: 2em;
+  font-weight: 700;
+  color: rgb(0, 0, 0);
+}
+
+.text-5 {
+  float: left;
+  width: 23.4227066592%;
+  min-height: 24px;
+  margin-left: 2.54595%;
+  font-family: Helvetica;
+  font-style: italic;
+  font-size: 0.938em;
+  color: rgb(0, 0, 0);
+}
+
+.text-6 {
+  float: left;
+  width: 9.1654069536%;
+  min-height: 19px;
+  font-family: Helvetica;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-7 {
+  float: left;
+  width: 30.0421672368%;
+  min-height: 24px;
+  font-family: Helvetica;
+  font-style: italic;
+  font-size: 0.938em;
+  color: rgb(0, 0, 0);
+}
+
+.text-8 {
+  position: relative;
+  float: left;
+  z-index: 14;
+  width: 9.1654069536%;
+  min-height: 19px;
+  font-family: Helvetica;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text-9 {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 12;
+  width: 27.4962208608%;
+  min-height: 24px;
+  margin: -24px 0 0 72.30488%;
+  font-family: Helvetica;
+  font-style: italic;
+  font-size: 0.938em;
+  color: rgb(0, 0, 0);
+}
